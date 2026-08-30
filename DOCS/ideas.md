@@ -30,8 +30,6 @@ La aplicación busca reducir el manejo manual de la información y facilitar la 
 * Parclick
 * EasyPark
 
-
-
 ## Idea 2: ParKol Reservas
 
 ParKol Reservas es una aplicación enfocada en la gestión y reserva de espacios de parqueadero. Permitirá a los usuarios consultar los cupos disponibles antes de llegar al parqueadero y reservar un espacio según el tipo de vehículo.
@@ -54,8 +52,6 @@ El sistema permitirá al administrador controlar las reservas, consultar los esp
 * Parclick
 * SpotHero
 * ParkWhiz
-
-
 
 ## Idea 3: ParKol Control
 
@@ -82,8 +78,6 @@ La aplicación busca reemplazar los procesos manuales por un sistema digital que
 * Passport Parking
 * TIBA Parking
 
-
-
 ## Idea 4: ParKol Admin
 
 ParKol Admin es una aplicación orientada a la administración y control general de un parqueadero. Permitirá al administrador gestionar los vehículos, cupos, reservas, tarifas y pagos, además de consultar estadísticas sobre el funcionamiento del parqueadero.
@@ -108,12 +102,3 @@ El sistema proporcionará información que facilite la toma de decisiones y perm
 * Parkable
 * Wayleadr
 * Smarking
-
-
-
-## Idea seleccionada
-
-Después de analizar las diferentes propuestas, se selecciona **ParKol — Sistema de Gestión de Parqueadero**, debido a que integra las principales necesidades de administración de un parqueadero en una sola aplicación.
-
-El proyecto permitirá aplicar conceptos de desarrollo web, bases de datos, gestión de información y desarrollo de software, utilizando tecnologías como **HTML5, CSS3, JavaScript, Node.js, Express.js y MySQL**.
-
