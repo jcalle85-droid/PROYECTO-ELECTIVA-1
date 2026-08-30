@@ -1,4 +1,4 @@
-# 💡 Ideas de proyecto
+#  Ideas de proyecto
 
 Se proponen las siguientes ideas de aplicación para el proyecto:
 
@@ -30,7 +30,7 @@ La aplicación busca reducir el manejo manual de la información y facilitar la 
 * Parclick
 * EasyPark
 
----
+
 
 ## Idea 2: ParKol Reservas
 
@@ -55,7 +55,7 @@ El sistema permitirá al administrador controlar las reservas, consultar los esp
 * SpotHero
 * ParkWhiz
 
----
+
 
 ## Idea 3: ParKol Control
 
@@ -82,7 +82,7 @@ La aplicación busca reemplazar los procesos manuales por un sistema digital que
 * Passport Parking
 * TIBA Parking
 
----
+
 
 ## Idea 4: ParKol Admin
 
@@ -109,9 +109,9 @@ El sistema proporcionará información que facilite la toma de decisiones y perm
 * Wayleadr
 * Smarking
 
----
 
-## 🎯 Idea seleccionada
+
+## Idea seleccionada
 
 Después de analizar las diferentes propuestas, se selecciona **ParKol — Sistema de Gestión de Parqueadero**, debido a que integra las principales necesidades de administración de un parqueadero en una sola aplicación.
 
